@@ -1,0 +1,23 @@
+[33mcommit 9b987bdfdd240ccc8353b3b046d681548e85db7a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: christopher <christopher.alapert@voco.ee>
+Date:   Thu Mar 6 09:33:51 2025 +0200
+
+    Added HTML header
+
+[33mcommit 1702355b00bc57654e6d9dd2dc5f38466141cb35[m
+Author: christopher <christopher.alapert@voco.ee>
+Date:   Thu Mar 6 09:31:49 2025 +0200
+
+    Added standard HTML page tags
+
+[33mcommit 17f960bd44eac4f8ca981566f818f5444d7a8d2a[m
+Author: christopher <christopher.alapert@voco.ee>
+Date:   Thu Mar 6 09:28:31 2025 +0200
+
+    Added h1 tag
+
+[33mcommit e65baebd6c6886071aab2a8346987a2fbb767cc7[m
+Author: christopher <christopher.alapert@voco.ee>
+Date:   Thu Mar 6 09:20:27 2025 +0200
+
+    Initial Commit
